@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-soheilai.com-00D4FF?style=for-the-badge)](https://soheilai.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@soheil.Aisystems-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/soheil78ai)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/soheilAi)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/SoheilAIsystems)
 
 </div>
 
