@@ -52,6 +52,27 @@
 
 ---
 
+## 🌌 نمای سه‌بعدی مشارکت‌ها (3D Contribution Graph)
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Night View Contribution Graph" width="100%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soheil78ai/soheil78ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soheil78ai/soheil78ai/output/github-snake.svg" />
+  <img alt="Snake eating GitHub contribution grid" src="https://raw.githubusercontent.com/soheil78ai/soheil78ai/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> ℹ️ این گراف‌ها به‌صورت خودکار هر شب توسط GitHub Actions تولید و آپدیت می‌شن.
+> برای فعال‌سازی اولیه، از تب **Actions** ورک‌فلوهای `GitHub-Profile-3D-Contrib` و `Generate Snake Animation` رو یک‌بار به‌صورت دستی (`Run workflow`) اجرا کن.
+
+---
+
 ## 📊 آمار گیت‌هاب
 
 <div align="center">
