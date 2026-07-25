@@ -126,6 +126,8 @@ End-to-end web platforms, dashboards, booking systems, payment flows and operati
 
 <div align="center">
   <img src="./assets/system-operating-model.svg" alt="Business Problem to System Architecture to Product Development to Automation to Measurement to Iteration" width="100%" />
+  <br />
+  <strong>Business Problem → System Architecture → Product Development → Automation → Measurement → Iteration</strong>
 </div>
 
 Technology selection follows the business process, data boundaries, integration requirements and the conditions under which the system must operate. Architecture comes before tooling.
