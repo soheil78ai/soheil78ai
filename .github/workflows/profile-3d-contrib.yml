@@ -1,0 +1,45 @@
+name: GitHub Profile 3D Contributions
+
+on:
+  schedule:
+    - cron: "15 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - design/premium-founder-profile
+    paths:
+      - .github/workflows/profile-3d-contrib.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contrib-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate 3D contribution graph
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution assets
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No contribution changes to commit."
+          else
+            git commit -m "chore(profile): refresh 3D contribution graph"
+            git push
+          fi

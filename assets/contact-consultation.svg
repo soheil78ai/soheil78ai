@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="74" viewBox="0 0 280 74" role="img" aria-labelledby="title desc">
+  <title id="title">Contact</title><desc id="desc">Start a conversation — شروع گفتگو</desc>
+  <defs><linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18447A"/><stop offset="1" stop-color="#0C2340"/></linearGradient></defs>
+  <rect x="5" y="10" width="270" height="58" rx="12" fill="#020509" stroke="#111C29"/>
+  <rect x="5" y="4" width="270" height="58" rx="12" fill="url(#face)" stroke="#55A3FF"/>
+  <path d="M5 46L21 62H259L275 46V50L259 68H21L5 50Z" fill="#07101A"/>
+  <path d="M23 20H53V41H40L32 48V41H23Z" fill="#102D50" stroke="#C7D0DC" stroke-width="2"/><circle cx="31" cy="31" r="2" fill="#55A3FF"/><circle cx="38" cy="31" r="2" fill="#55A3FF"/><circle cx="45" cy="31" r="2" fill="#55A3FF"/>
+  <text x="65" y="29" fill="#F2F5F8" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">CONTACT</text>
+  <text x="65" y="48" fill="#C7D0DC" font-family="Segoe UI,Arial,sans-serif" font-size="13">شروع گفتگو</text>
+</svg>
