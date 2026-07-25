@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="74" viewBox="0 0 280 74" role="img" aria-labelledby="title desc">
+  <title id="title">Telegram</title><desc id="desc">Soheil AI Systems on Telegram — تلگرام</desc>
+  <defs><linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172334"/><stop offset="1" stop-color="#0B111A"/></linearGradient></defs>
+  <rect x="5" y="10" width="270" height="58" rx="12" fill="#020509" stroke="#111C29"/>
+  <rect x="5" y="4" width="270" height="58" rx="12" fill="url(#face)" stroke="#3A4B60"/>
+  <path d="M5 46L21 62H259L275 46V50L259 68H21L5 50Z" fill="#07101A"/>
+  <circle cx="38" cy="33" r="16" fill="#102D50" stroke="#55A3FF"/><path d="M26 32L49 23L43 44L36 37L32 41L33 35Z" fill="#C7D0DC"/><path d="M33 35L44 27" stroke="#2F81F7" stroke-width="2"/>
+  <text x="65" y="29" fill="#F2F5F8" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">TELEGRAM</text>
+  <text x="65" y="48" fill="#9EABBC" font-family="Segoe UI,Arial,sans-serif" font-size="13">@SoheilAIsystems</text>
+</svg>

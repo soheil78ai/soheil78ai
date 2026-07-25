@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="hero-title hero-description">
+  <title id="hero-title">Soheil AI Systems</title>
+  <desc id="hero-description">Isometric systems architecture banner for Soheil Haji Heydari, Founder of Soheil AI Systems.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C131D"/>
+      <stop offset="1" stop-color="#060A10"/>
+    </linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E6EDF3"/>
+      <stop offset="0.48" stop-color="#77869A"/>
+      <stop offset="1" stop-color="#D9E1EA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="520" fill="#030507"/>
+  <rect x="28" y="28" width="1544" height="464" rx="22" fill="url(#panel)" stroke="#2A3544" stroke-width="2"/>
+
+  <g opacity="0.3" stroke="#263241" stroke-width="1">
+    <path d="M80 96H1520M80 160H1520M80 224H1520M80 288H1520M80 352H1520M80 416H1520"/>
+    <path d="M144 64V456M272 64V456M400 64V456M528 64V456M656 64V456M784 64V456M912 64V456M1040 64V456M1168 64V456M1296 64V456M1424 64V456"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="104" y="106" fill="#55A3FF" font-size="20" font-weight="700" letter-spacing="5">SOHEIL AI SYSTEMS</text>
+    <rect x="104" y="136" width="74" height="4" rx="2" fill="#2F81F7"/>
+    <text x="104" y="224" fill="#F2F5F8" font-size="58" font-weight="700" letter-spacing="2">SOHEIL HAJI HEYDARI</text>
+    <text x="104" y="280" fill="#CDD6E0" font-size="27" font-weight="600">Founder, Soheil AI Systems</text>
+    <text x="104" y="326" fill="#9EABBC" font-size="23">AI Systems Architect · Full-Stack Product Builder</text>
+    <text x="104" y="394" fill="#55A3FF" font-size="17" font-weight="600" letter-spacing="2">SYSTEMS ARCHITECTURE FOR ONLINE BUSINESS</text>
+    <text x="820" y="432" fill="#AAB6C5" font-size="20" direction="rtl" text-anchor="end">معماری سیستم‌های هوشمند برای کسب‌وکارهای آنلاین</text>
+  </g>
+
+  <g transform="translate(1010 84)">
+    <path d="M208 24L378 122L208 220L38 122Z" fill="#0E1A29" stroke="#34465B" stroke-width="2"/>
+    <path d="M38 122L208 220V276L38 178Z" fill="#07101A" stroke="#27384D" stroke-width="2"/>
+    <path d="M378 122L208 220V276L378 178Z" fill="#0A1420" stroke="#27384D" stroke-width="2"/>
+
+    <g>
+      <path d="M208 62L290 109L208 156L126 109Z" fill="#173A65" stroke="#55A3FF" stroke-width="2"/>
+      <path d="M126 109L208 156V220L126 173Z" fill="#0B2038" stroke="#2F81F7" stroke-width="2"/>
+      <path d="M290 109L208 156V220L290 173Z" fill="#102A48" stroke="#2F81F7" stroke-width="2"/>
+      <path d="M208 87L250 111L208 135L166 111Z" fill="url(#chrome)" opacity="0.9"/>
+      <circle cx="208" cy="111" r="9" fill="#2F81F7"/>
+    </g>
+
+    <g>
+      <path d="M69 70L125 102L69 134L13 102Z" fill="#182331" stroke="#718196" stroke-width="2"/>
+      <path d="M13 102L69 134V177L13 145Z" fill="#09111B" stroke="#3A4859" stroke-width="2"/>
+      <path d="M125 102L69 134V177L125 145Z" fill="#0C1724" stroke="#3A4859" stroke-width="2"/>
+      <circle cx="69" cy="103" r="7" fill="#C7D0DC"/>
+    </g>
+
+    <g>
+      <path d="M347 70L403 102L347 134L291 102Z" fill="#123055" stroke="#2F81F7" stroke-width="2"/>
+      <path d="M291 102L347 134V177L291 145Z" fill="#091A2E" stroke="#2F81F7" stroke-width="2"/>
+      <path d="M403 102L347 134V177L403 145Z" fill="#0D2542" stroke="#2F81F7" stroke-width="2"/>
+      <circle cx="347" cy="103" r="7" fill="#55A3FF"/>
+    </g>
+
+    <g>
+      <path d="M69 233L125 265L69 297L13 265Z" fill="#123055" stroke="#2F81F7" stroke-width="2"/>
+      <path d="M13 265L69 297V340L13 308Z" fill="#091A2E" stroke="#2F81F7" stroke-width="2"/>
+      <path d="M125 265L69 297V340L125 308Z" fill="#0D2542" stroke="#2F81F7" stroke-width="2"/>
+      <circle cx="69" cy="266" r="7" fill="#55A3FF"/>
+    </g>
+
+    <g>
+      <path d="M347 233L403 265L347 297L291 265Z" fill="#182331" stroke="#718196" stroke-width="2"/>
+      <path d="M291 265L347 297V340L291 308Z" fill="#09111B" stroke="#3A4859" stroke-width="2"/>
+      <path d="M403 265L347 297V340L403 308Z" fill="#0C1724" stroke="#3A4859" stroke-width="2"/>
+      <circle cx="347" cy="266" r="7" fill="#C7D0DC"/>
+    </g>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M125 122L152 138" stroke="#55A3FF" stroke-width="4"/>
+      <path d="M291 122L264 138" stroke="#55A3FF" stroke-width="4"/>
+      <path d="M125 265L158 246" stroke="#55A3FF" stroke-width="4"/>
+      <path d="M291 265L258 246" stroke="#55A3FF" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

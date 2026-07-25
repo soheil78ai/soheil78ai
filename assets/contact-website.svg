@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="74" viewBox="0 0 280 74" role="img" aria-labelledby="title desc">
+  <title id="title">Website</title><desc id="desc">Official website — وب‌سایت رسمی</desc>
+  <defs><linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172334"/><stop offset="1" stop-color="#0B111A"/></linearGradient></defs>
+  <rect x="5" y="10" width="270" height="58" rx="12" fill="#020509" stroke="#111C29"/>
+  <rect x="5" y="4" width="270" height="58" rx="12" fill="url(#face)" stroke="#3A4B60"/>
+  <path d="M5 46L21 62H259L275 46V50L259 68H21L5 50Z" fill="#07101A"/>
+  <circle cx="38" cy="33" r="15" fill="#102D50" stroke="#55A3FF"/>
+  <circle cx="38" cy="33" r="9" fill="none" stroke="#C7D0DC" stroke-width="2"/><path d="M29 33H47M38 24C34 29 34 37 38 42M38 24C42 29 42 37 38 42" fill="none" stroke="#55A3FF"/>
+  <text x="65" y="29" fill="#F2F5F8" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">WEBSITE</text>
+  <text x="65" y="48" fill="#9EABBC" font-family="Segoe UI,Arial,sans-serif" font-size="13">وب‌سایت رسمی</text>
+</svg>
