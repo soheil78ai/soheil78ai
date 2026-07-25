@@ -23,7 +23,7 @@
 </p>
 
 <details>
-<summary align="center"><img src="./assets/language-persian.svg" alt="مشاهده نسخه کامل فارسی — View Persian Version" height="44" /></summary>
+<summary align="center"><kbd>FA</kbd>&nbsp; <strong>مشاهده نسخه کامل فارسی</strong>&nbsp; <sub>VIEW PERSIAN VERSION</sub></summary>
 
 <div dir="rtl" lang="fa" align="right">
 
