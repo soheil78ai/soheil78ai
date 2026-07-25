@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="56" viewBox="0 0 430 56" role="img" aria-labelledby="title desc">
+  <title id="title">View Persian version</title>
+  <desc id="desc">Open the complete Persian translation of this profile.</desc>
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18283B"/>
+      <stop offset="1" stop-color="#0B121C"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="7" width="422" height="45" rx="12" fill="#020509" stroke="#111C29"/>
+  <rect x="4" y="2" width="422" height="45" rx="12" fill="url(#face)" stroke="#3A4B60"/>
+  <path d="M4 37L16 47H414L426 37V42L414 52H16L4 42Z" fill="#07101A"/>
+  <rect x="18" y="13" width="54" height="25" rx="7" fill="#102D50" stroke="#55A3FF"/>
+  <text x="45" y="31" fill="#8AC0FF" font-family="Tahoma,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">FA</text>
+  <text x="90" y="22" fill="#F2F5F8" font-family="Tahoma,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">مشاهده نسخه کامل فارسی</text>
+  <text x="90" y="38" fill="#8F9CAE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.4">VIEW PERSIAN VERSION</text>
+  <path d="M394 19l7 7-7 7" fill="none" stroke="#55A3FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
