@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="300" viewBox="0 0 1600 300" role="img" aria-labelledby="title desc">
+  <title id="title">Soheil AI Systems operating model</title>
+  <desc id="desc">A six-stage system workflow from business problem through architecture, product, automation, measurement and iteration.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101A28"/>
+      <stop offset="1" stop-color="#070B12"/>
+    </linearGradient>
+    <linearGradient id="active" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173B68"/>
+      <stop offset="1" stop-color="#0C1D34"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="300" rx="22" fill="#030507"/>
+  <rect x="1" y="1" width="1598" height="298" rx="21" fill="none" stroke="#293547" stroke-width="2"/>
+
+  <g opacity=".28" stroke="#263241">
+    <path d="M48 76H1552M48 150H1552M48 224H1552"/>
+    <path d="M112 38V262M240 38V262M368 38V262M496 38V262M624 38V262M752 38V262M880 38V262M1008 38V262M1136 38V262M1264 38V262M1392 38V262M1520 38V262"/>
+  </g>
+
+  <g fill="none" stroke="#2F81F7" stroke-width="4" stroke-linecap="round">
+    <path d="M280 150H314"/>
+    <path d="M536 150H570"/>
+    <path d="M792 150H826"/>
+    <path d="M1048 150H1082"/>
+    <path d="M1304 150H1338"/>
+  </g>
+
+  <g fill="#55A3FF">
+    <path d="M314 150l-12-8v16z"/><path d="M570 150l-12-8v16z"/>
+    <path d="M826 150l-12-8v16z"/><path d="M1082 150l-12-8v16z"/>
+    <path d="M1338 150l-12-8v16z"/>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(48 94)">
+      <rect x="5" y="9" width="232" height="112" rx="13" fill="#020509" stroke="#111A26"/>
+      <rect width="232" height="112" rx="13" fill="url(#surface)" stroke="#536176"/>
+      <rect x="18" y="18" width="34" height="24" rx="6" fill="#182331" stroke="#718196"/>
+      <text x="35" y="35" fill="#C7D0DC" font-size="12" font-weight="700">01</text>
+      <text x="116" y="69" fill="#F2F5F8" font-size="18" font-weight="700">BUSINESS</text>
+      <text x="116" y="91" fill="#9EABBC" font-size="15">PROBLEM</text>
+    </g>
+    <g transform="translate(304 94)">
+      <rect x="5" y="9" width="232" height="112" rx="13" fill="#020509" stroke="#111A26"/>
+      <rect width="232" height="112" rx="13" fill="url(#active)" stroke="#2F81F7"/>
+      <rect x="18" y="18" width="34" height="24" rx="6" fill="#102D50" stroke="#55A3FF"/>
+      <text x="35" y="35" fill="#8AC0FF" font-size="12" font-weight="700">02</text>
+      <text x="116" y="69" fill="#F2F5F8" font-size="18" font-weight="700">SYSTEM</text>
+      <text x="116" y="91" fill="#8AC0FF" font-size="15">ARCHITECTURE</text>
+    </g>
+    <g transform="translate(560 94)">
+      <rect x="5" y="9" width="232" height="112" rx="13" fill="#020509" stroke="#111A26"/>
+      <rect width="232" height="112" rx="13" fill="url(#surface)" stroke="#536176"/>
+      <rect x="18" y="18" width="34" height="24" rx="6" fill="#182331" stroke="#718196"/>
+      <text x="35" y="35" fill="#C7D0DC" font-size="12" font-weight="700">03</text>
+      <text x="116" y="69" fill="#F2F5F8" font-size="18" font-weight="700">PRODUCT</text>
+      <text x="116" y="91" fill="#9EABBC" font-size="15">DEVELOPMENT</text>
+    </g>
+    <g transform="translate(816 94)">
+      <rect x="5" y="9" width="232" height="112" rx="13" fill="#020509" stroke="#111A26"/>
+      <rect width="232" height="112" rx="13" fill="url(#surface)" stroke="#536176"/>
+      <rect x="18" y="18" width="34" height="24" rx="6" fill="#182331" stroke="#718196"/>
+      <text x="35" y="35" fill="#C7D0DC" font-size="12" font-weight="700">04</text>
+      <text x="116" y="80" fill="#F2F5F8" font-size="18" font-weight="700">AUTOMATION</text>
+    </g>
+    <g transform="translate(1072 94)">
+      <rect x="5" y="9" width="232" height="112" rx="13" fill="#020509" stroke="#111A26"/>
+      <rect width="232" height="112" rx="13" fill="url(#surface)" stroke="#536176"/>
+      <rect x="18" y="18" width="34" height="24" rx="6" fill="#182331" stroke="#718196"/>
+      <text x="35" y="35" fill="#C7D0DC" font-size="12" font-weight="700">05</text>
+      <text x="116" y="80" fill="#F2F5F8" font-size="18" font-weight="700">MEASUREMENT</text>
+    </g>
+    <g transform="translate(1328 94)">
+      <rect x="5" y="9" width="224" height="112" rx="13" fill="#020509" stroke="#111A26"/>
+      <rect width="224" height="112" rx="13" fill="url(#active)" stroke="#2F81F7"/>
+      <rect x="18" y="18" width="34" height="24" rx="6" fill="#102D50" stroke="#55A3FF"/>
+      <text x="35" y="35" fill="#8AC0FF" font-size="12" font-weight="700">06</text>
+      <text x="112" y="80" fill="#F2F5F8" font-size="18" font-weight="700">ITERATION</text>
+    </g>
+  </g>
+</svg>
