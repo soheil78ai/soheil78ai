@@ -28,7 +28,7 @@
     <text x="104" y="280" fill="#CDD6E0" font-size="27" font-weight="600">Founder, Soheil AI Systems</text>
     <text x="104" y="326" fill="#9EABBC" font-size="23">AI Systems Architect · Full-Stack Product Builder</text>
     <text x="104" y="394" fill="#55A3FF" font-size="17" font-weight="600" letter-spacing="2">SYSTEMS ARCHITECTURE FOR ONLINE BUSINESS</text>
-    <text x="820" y="432" fill="#AAB6C5" font-size="20" direction="rtl" text-anchor="end">معماری سیستم‌های هوشمند برای کسب‌وکارهای آنلاین</text>
+    <text x="104" y="432" fill="#78869A" font-size="16" font-weight="600" letter-spacing="1.5">OPERATIONS  /  AUTOMATION  /  DATA  /  CUSTOMER EXPERIENCE</text>
   </g>
 
   <g transform="translate(1010 84)">
@@ -77,6 +77,12 @@
       <path d="M291 122L264 138" stroke="#55A3FF" stroke-width="4"/>
       <path d="M125 265L158 246" stroke="#55A3FF" stroke-width="4"/>
       <path d="M291 265L258 246" stroke="#55A3FF" stroke-width="4"/>
+    </g>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" text-anchor="middle">
+      <text x="69" y="195" fill="#8794A6">OPERATIONS</text>
+      <text x="347" y="195" fill="#55A3FF">AUTOMATION</text>
+      <text x="69" y="361" fill="#55A3FF">DATA</text>
+      <text x="347" y="361" fill="#8794A6">EXPERIENCE</text>
     </g>
   </g>
 </svg>
